@@ -1,0 +1,7 @@
+Pertanyaan :
+1. anak dari david? --> is_anak(Y, david).
+2. sodara dari john? --> is_sodara(Y, john).
+3. kakek dari mary? --> is_kakek(X, mary).
+4. ayah dari ray? --> is_ayah(X, ray).
+5. istri dari david? --> is_istri(Z, david).
+6. suami dari karen? --> is_suami(X, karen).
